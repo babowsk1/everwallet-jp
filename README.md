@@ -1,4 +1,4 @@
-# 👋 Welcome to EVER Wallet
+# 👋 Welcome to EVER Wallet test
 
 The [Broxus team](https://broxus.com/) welcomes you to the Gitbook EVER Wallet page!\
 On the pages of this space you will find everything you need to know to use [EVER Wallet](https://l1.broxus.com/everscale/wallet).
