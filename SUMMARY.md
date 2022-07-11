@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Welcome to EVER Wallet](README.md)
-* [Introduction](introduction/README.md)
-  * [About EVER Wallet](introduction/about-ever-wallet.md)
+* [エバーウォレットへ  ようこそ](README.md)
+* [紹介](introduction/README.md)
+  * [エバーウォレットについて](introduction/about-ever-wallet.md)
   * [Everscale](introduction/everscale.md)
 * [Getting started](getting-started/README.md)
   * [Install & Singing in](getting-started/install-and-singing-in/README.md)

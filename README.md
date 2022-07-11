@@ -1,9 +1,13 @@
-# 👋 Welcome to EVER Wallet test
+---
+description: エバーウォレットようこそ
+---
 
-The [Broxus team](https://broxus.com/) welcomes you to the Gitbook EVER Wallet page!\
-On the pages of this space you will find everything you need to know to use [EVER Wallet](https://l1.broxus.com/everscale/wallet).
+# エバーウォレットへ  ようこそ
 
-If you are not familiar with [EVER Wallet](https://l1.broxus.com/everscale/wallet) yet or are planning to start getting acquainted with it, go to the start page!
+[ブロッソチーム](https://broxus.com/)が、ギットブックエバーウォレットのページに皆様を歓迎いたします！\
+このスペースのページには、[エバーウォレット](https://l1.broxus.com/everscale/wallet)を使うために必要なことが全て記載されています。
+
+[エバーウォレット](https://l1.broxus.com/everscale/wallet)に慣れていない方や、これから始めようと思っている方は、スタートページへ行きましょう!
 
 {% content-ref url="getting-started/" %}
 [getting-started](getting-started/)
