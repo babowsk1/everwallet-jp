@@ -1,6 +1,6 @@
 ---
-description: Introduction to EVER Wallet.
+description: エバーウォレットのご紹介
 ---
 
-# 👨🏫 Introduction
+# ご紹介
 

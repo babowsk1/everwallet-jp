@@ -1,11 +1,11 @@
-# EVER Wallet App
+# EVER Walletアプリ
 
-In order to go to the account management menu, click on the **three dots** in the upper right corner of the card of the selected account.&#x20;
+アカウント管理メニューに移動するには、選択したアカウントカードの右上にある**3点**をクリックします。
 
-In the window that opens, you can navigate to:&#x20;
+開いたウィンドウで、以下の項目に移動できます：
 
-* **Preferences** - in this menu you can rename the account, copy the wallet address and QR code, and open the account page in the blockchain explorer.&#x20;
-* **Custodians** - this menu displays a list of custodians in your [multisig wallet](../../multisig/).&#x20;
-* **Remove account** - by clicking, you can remove the account from the displayed ones.
+* **設定** - このメニューでは、アカウント名の変更、ウォレットアドレスとQRコードのコピー、ブロックチェーンエクスプローラーでアカウントページを開くことができます。
+* **カストディアン** - このメニューでは、[マルチシグウォレット](../../multisig/)のカストディアン一覧が表示されます。
+* **アカウントの削除** - クリックすると、表示されているアカウントから削除できます。
 
 ![](<../../.gitbook/assets/image (28).png>)

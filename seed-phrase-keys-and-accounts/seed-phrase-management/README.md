@@ -1,6 +1,6 @@
 ---
-description: Learn to manage seed phrases, keys and EVER Wallet accounts.
+description: シードフレーズ、鍵、EVER Walletのアカウント管理をご説明します。
 ---
 
-# Seed phrase management
+# シードフレーズの管理
 

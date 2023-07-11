@@ -1,28 +1,28 @@
-# Creating a Multisig account
+# マルチシグアカウントを作成する
 
-The process of creating a Multisig wallet is somewhat different. \
-Let's start from the very beginning:
+マルチシグウォレットを作成するプロセスは少し異なりますので、 \
+最初からご説明いたします：
 
-1\. Proceed to [**create** ](../getting-started/install-and-singing-in/creating-a-new-wallet.md)or [**add a new account**](../seed-phrase-keys-and-accounts/account-management/). Choose a name for the new account and click **Next**.
+1\. [**新しいアカウントの追加**](../seed-phrase-keys-and-accounts/account-management/)や[**作成**](../getting-started/install-and-singing-in/creating-a-new-wallet.md)に進みます。新しいアカウントの名前を決めて、\
+［**次へ**］をクリックします。
 
-2\. Choose the appropriate [type of wallet](../getting-started/install-and-singing-in/types-of-wallet.md) and click **Create account**.
+2\. 適切な[**ウォレットのタイプ**](../getting-started/install-and-singing-in/types-of-wallet.md)を選択し、［**アカウントを作成する**］をクリックします。
 
 {% hint style="warning" %}
-If you want to use a multisig wallet with 3 or more custodians on FlatQube and Octus Bridge, be sure to use **BridgeMultisigWallet** type!
+FlatQubeとOctus Bridgeで3人以上のカストディアンがいるマルチシグウォレットを使用する場合は、必ず**BridgeMultisigWallet**タイプをご使用ください。
 {% endhint %}
 
 ![](<../.gitbook/assets/image (11).png>)
 
-3\. When the wallet is created, proceed to [**deploy**](../getting-started/install-and-singing-in/deploy/).&#x20;
+3\. ウォレットを作成したら、[**デプロイ**](../getting-started/install-and-singing-in/deploy/)に進みます。
 
-4\. When deploying, select **Multi-signature** wallet and click **Next**.&#x20;
+4\. デプロイ時に、**Multi-signature**ウォレットを選択し、［**次へ**］をクリックします。
 
-5\. Select the number of custodians that will require confirmation for the transaction and enter the **public key** for each custodian.&#x20;
+5\. トランザクションに確認が必要なカストディアンの数を選択し、各カストディアンの**公開鍵**を入力してください。
 
-6\. Click **Deploy**.
+6\. ［**デプロイ**］をクリックしてください。
 
 ![](<../.gitbook/assets/image (4).png>)
 
-Now your multisig wallet is ready to go. \
-Now the custodian needs to [**add it to his EVER Wallet** ](add-a-multisig-account.md)to confirm transactions.
-
+これで、マルチシグウォレットの準備が整いました。\
+あとは、カストディアンが[自分のEVER Walletに追加](add-a-multisig-account.md)して、トランザクションを確認する必要があります。

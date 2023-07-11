@@ -1,18 +1,18 @@
 ---
-description: Install EVER Wallet Chrome extension
+description: EVER WalletのChrome拡張機能をインストールします
 ---
 
-# EVER Wallet Extension
+# EVER Walletの拡張機能
 
-1. Go to the [download page](https://l1.broxus.com/) and select **Chrome Web Store**
-2. Click **Add to Chrome** and then confirm this action by clicking **Add extension.**
-3. And don't forget to **pin** EVER Wallet in the list of displayed extensions! (upper right corner of Chrome)
+1. [ダウンロードページ](https://l1.broxus.com/)へ移動し、**Chrome Web Store**を選択します
+2. \[**Chromeに追加**]をクリックし、\[**拡張機能を追加**]をクリックしてこの操作を確認します。
+3. 表示されている拡張機能一覧にEVER Walletを**ピン**で固定するのを忘れないでください! (Chromeの右上)
 
 ![](<../../../.gitbook/assets/image (43).png>)
 
-Immediately after installation, you will be redirected to the "Welcome to EVER Wallet" page, where you will be asked to:&#x20;
+インストール直後、「EVER Walletへようこそ」というページに遷移し、そこで下記を求められます：
 
-* [Create a new wallet](../creating-a-new-wallet.md)
-* [Sign in with seed phrase](../sign-in-with-existing-seed-phrase.md)
-* Sign in with ledger
-* [Restore from backup](../sign-in-with-existing-backup.md)
+* [新しいウォレットを作成する](../creating-a-new-wallet.md)
+* [シードフレーズでサインインする](../sign-in-with-existing-seed-phrase.md)
+* 台帳でサインイン
+* [バックアップで復元する](../sign-in-with-existing-backup.md)

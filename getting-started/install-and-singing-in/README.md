@@ -1,7 +1,6 @@
 ---
-description: Instructions for installing and getting started in EVER Wallet.
+description: EVER Walletのインストールと使用方法についてご説明します。
 ---
 
-# Install & Singing in
+# インストール＆サインイン
 
-{% embed url="https://www.youtube.com/watch?v=gEBu6GtA9qY" %}

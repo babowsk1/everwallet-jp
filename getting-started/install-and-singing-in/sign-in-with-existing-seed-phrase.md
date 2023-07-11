@@ -1,10 +1,10 @@
-# Sign in with existing seed phrase
+# 既存のシードフレーズでサインインする
 
-If you have already created a wallet on the Everscale network, you can add it to your EVER Wallet using your existing seed phrase.
+既にEverscaleのネットワーク上でウォレットを作成している場合は、既存のシードフレーズを使用してEVER Walletに追加することが可能です。
 
-1. Choose **Sign in with Seed Phrase**&#x20;
-2. Choose a [**type of your wallet**](types-of-wallet.md)&#x20;
-3. Enter your seed phrase&#x20;
-4. Create a password. You’re going to need your password in order to confirm all the transactions you make with the wallet.
+1. ［**シードフレーズでサインインする**］を選択します。
+2. [ウォレットのタイプ](types-of-wallet.md)を選択します。
+3. シードフレーズを入力します。
+4. パスワードを作成してください。ウォレットで行う取引確認の際に、パスワードが必要になります。
 
 ![](<../../.gitbook/assets/image (37).png>)

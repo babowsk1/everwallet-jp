@@ -1,22 +1,25 @@
-# EVER Wallet Extension
+# EVER Walletの拡張機能
 
-After creating a new wallet, you need to deploy it in order to broadcast your transactions or make swaps.&#x20;
+新しいウォレットを作成後、トランザクションやスワップをブロードキャストするには、ウォレットをデプロイする必要があります。
 
 {% hint style="info" %}
-In order to deploy your wallet you will need some EVER. Find out how to get them from the page below.
+ウォレットをデプロイするには、EVERが必要です。下記のページでEVERの入手方法を\
+ご確認いただけます。
 {% endhint %}
 
 {% content-ref url="../../../how-to-get-ever.md" %}
 [how-to-get-ever.md](../../../how-to-get-ever.md)
 {% endcontent-ref %}
 
-1. Once you have EVERs in your wallet, you can click on the **Deploy** button.
-2. Select the type of wallet you wish to deploy: Standart (if you are the only user of the wallet) or [Multisig](../../../../multisig/) (if the transaction has to be approved via different signatures)**.**
+1. ウォレットにEVERを入れたら、［**デプロイ**］ボタンをクリックしてください。
+2. デプロイしたいウォレットのタイプを選択してください：\
+   Standart（ウォレットのユーザーがあなただけの場合）または[マルチシグ](../../../../multisig/)（トランザクションが異なる署名を介して確認される必要がある場合）。
 
 ![](<../../../../.gitbook/assets/image (38).png>)
 
-3\. Confirm the transaction and wait for it to complete.
+3\. トランザクションを確定し、完了までお待ちください。
 
-4\. After the transaction is completed, you will see that you can now send tokens, which means that the wallet has been successfully deployed.
+4\. トランザクション完了後、トークンの送信が可能になったことが確認でき、ウォレットのデプロイに\
+成功したことが分かります。
 
 ![](<../../../../.gitbook/assets/image (14).png>)

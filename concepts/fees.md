@@ -1,4 +1,4 @@
-# Fees
+# 手数料
 
-Whenever your address interacts with Everscale network contracts, you need to pay a fee. \
-This type of commission is called **Blockchain fees**. Any other blockchain works in a similar way. Fees are one of the ways in which validators are rewarded for their work: fees from all transactions that have been included in newly created blocks are distributed among all participating validators. Everscale network fees are negligible and are limited to a few cents when making swaps.
+あなたのアドレスがEverscaleネットワークのコントラクトと相互作用するたびに、手数料を支払う必要があります。\
+このような手数料は**ブロックチェーン手数料**と呼ばれ、他のどのブロックチェーンも似たような仕組みになっています。手数料は、バリデーターへの報酬の1つです。新しく作成されたブロックに含まれる全てのトランザクション手数料は、参加しているバリデーターに分配されます。Everscaleのネットワーク手数料はごくわずかで、スワップを行う際でも数セント程です。

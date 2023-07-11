@@ -1,14 +1,14 @@
-# Types of wallet
+# ウォレットのタイプ
 
-EVER Wallet supports the creation of several types of wallets, which differ in the specifics of their work:
+EVER Walletは、動作の仕様が異なる数種類のウォレットの作成に対応しています：
 
-**SafeMultisig** - formally verified Multisig wallet. \
-**SafeMultisig24** - with a SafeMultisig wallet custodian confirmations take up to 1 hour, with a SafeMultisig24 it will take up to 24 hours. If the required number of signatures is not reached by the time limit, the transaction will be nullified. \
-**SetCodeMultisigWallet** - Multisig wallet with the possibility to change codes and custodians. **BridgeMultisigWallet** - this kind of wallet differs from SafeMultisig because it does not have payload limits.&#x20;
+**SafeMultisig** - 正式認証されたマルチシグウォレットです。\
+**SafeMultisig24** - カストディアンによるSafeMultisigウォレットの確認は最大1時間、SafeMultisig24では確認までに最大24時間かかります。制限時間内に必要な署名数に達しない場合、トランザクションは無効となります。\
+**SetCodeMultisigWallet** - コードやカストディアンを変更できるマルチシグウォレットです。 **BridgeMultisigWallet** - このタイプのウォレットは、SafeMultisigとは異なり、ペイロード制限を設けていません。
 
 {% hint style="info" %}
-If you want to use a multisig wallet with 3 or more custodians on [FlatQube ](broken-reference)and [Octus Bridge](https://docs.octusbridge.io/), be sure to use **BridgeMultisigWallet** type!
+[FlatQube](broken-reference/)と[Octus Bridge](https://docs.octusbridge.io/)で、3つ以上のカストディアンを持つマルチシグウォレットを使用したい場合は、必ず**BridgeMultisigWallet**タイプをご使用ください！
 {% endhint %}
 
-**Surf** - Technically, this kind of wallet is the same as SetCodeMultisig. You should use this kind of wallet to import your Ever Surf wallet. \
-**WalletV3** - this is a small and simple contract that allows you to deploy your wallet at the same time as you make a transfer and has a 24-word seed phrase.
+**Surf** - 技術的には、このタイプのウォレットはSetCodeMultisigと同じです。Ever Surfウォレットをインポートするには、このタイプのウォレットを使用する必要があります。\
+**WalletV3** - 転送と同時にウォレットをデプロイできる小さくてシンプルなコントラクトで、24単語のシードフレーズで構成されています。

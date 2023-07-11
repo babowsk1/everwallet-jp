@@ -1,10 +1,10 @@
 ---
-description: Install EVER Wallet Android/Ios app
+description: Android/iOSのEVER Walletアプリをインストール
 ---
 
-# EVER Wallet App
+# EVER Walletアプリ
 
-1. Go to the [download page](https://l1.broxus.com/) and select Google Play or Apple Store.
-2. Install EVER Wallet in the appropriate app.
+1. [ダウンロードページ](https://l1.broxus.com/)に移動し、Google PlayまたはApple Storeを選択します。
+2. 対応アプリのEVER Walletをインストールします。
 
-After installation, proceed to [create ](../creating-a-new-wallet.md)or [import ](../sign-in-with-existing-seed-phrase.md)a wallet.
+インストール後、ウォレットの[作成](../creating-a-new-wallet.md)または[インポート](../sign-in-with-existing-seed-phrase.md)に進んでください。

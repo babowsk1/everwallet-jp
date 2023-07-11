@@ -1,6 +1,6 @@
 ---
-description: Learn how to manage your EVER Wallet assets.
+description: EVER Walletのアセット管理方法をご紹介します。
 ---
 
-# 📚 Manage assets
+# アセットの管理
 

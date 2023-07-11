@@ -1,10 +1,10 @@
 # EVER & WEVER
 
-**EVER** is Everscale's blockchain native token. This token is used when interacting with any contract on the network. It is with EVER that you pay the commission for any transaction.
+**EVER**は、Everscaleブロックチェーンのネイティブトークンです。このトークンは、ネットワーク上のあらゆるコントラクトとやり取りする際に使用されます。どのようなトランザクションでも、手数料を支払うのはEVERです。
 
-The **Wrapped EVER** project allows Everscale's EVER token to be used as a TIP-3.1 compliant token.
+**Wrapped EVER**プロジェクトでは、EverscaleのEver TokenをTIP-3.1準拠トークンとして使用することができます。
 
-Wrapped EVER works pretty much the same as Wrapped Ether.\
-Minting and burning takes place on the Everscale network. Anyone can mint wEVER by locking EVER in the Vault contract. Also, wEVER can be burned to get EVER.
+Wrapped EVERは、WrappedEtherとほぼ同じように機能します。\
+ミントとバーンはEverscaleネットワークで行われます。VaultコントラクトでEVERをロックすることで、誰でもwEVERをミントすることが可能です。また、wEVERをバーンしてEVERを取得することも可能です。
 
-Use the [Wrappedever.io](https://wrappedever.io) interface to convert EVER to wEVER and vice versa.
+[Wrappedever.io](https://wrappedever.io)インターフェースを使用して、EVERとWEVERを相互に変換します。

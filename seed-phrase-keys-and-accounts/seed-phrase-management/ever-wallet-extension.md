@@ -1,33 +1,32 @@
-# EVER Wallet Extension
+# EVER Walletの拡張機能
 
-## Manage seeds & accounts
+## シードとアカウントを管理する
 
-Go to the **Profile menu** and then click on **Manage seeds & accounts**.
+**プロフィールメニュー**に移動し、［**シードとアカウントを管理**］をクリックします。
 
 ![](<../../.gitbook/assets/image (21).png>)
 
-You will see all seed phrases currently linked to the wallet. Here you can:&#x20;
+ウォレットに現在リンクしている全てのシードフレーズが表示されます。こちらから下記が可能です:
 
-## Add a new seed phrase
+## 新しいシードフレーズを追加する
 
-1. Click **+ Add new** at the top right of the window.&#x20;
-2. Enter the name of the original phrase and then choose whether to [**create a new phrase**](../../getting-started/install-and-singing-in/creating-a-new-wallet.md) or [**import an existing one**](../../getting-started/install-and-singing-in/sign-in-with-existing-seed-phrase.md), then click next.&#x20;
+1. ウィンドウ右上の［**＋新規追加**］をクリックします。
+2. オリジナルフレーズの名前を入力し、[新しいフレーズを作成する](../../getting-started/install-and-singing-in/creating-a-new-wallet.md)か、[既存のフレーズをインポートする](../../getting-started/install-and-singing-in/sign-in-with-existing-seed-phrase.md)かを選択し、［**次へ**］をクリックします。
 
 ![](<../../.gitbook/assets/image (31).png>)
 
-## Export seed phrase
+## シードフレーズをエクスポートする
 
-If you have lost your seed phrase, you can look it up again:&#x20;
+シードフレーズを紛失した場合、再度確認することができます：
 
-1. Select the desired seed by clicking on it.
-2. Click **Export Seed** at the bottom of the window.&#x20;
-3. Enter the <mark style="color:green;">**password**</mark> for the seed phrase (wallet password) and click **Confirm**.&#x20;
+1. 確認したいシードをクリックして選択します。
+2. ウィンドウの下部にある［**シードをエクスポートする**］をクリックします。
+3. シードフレーズの<mark style="color:green;">**パスワード**</mark>（ウォレットパスワード）を入力し、\[**確認**]をクリックします。
 
 ![](<../../.gitbook/assets/image (39).png>)
 
-## Backup all seed
+## 全てのシードをバックアップする
 
-You can create a backup file of your seeds, for [quick entry](../../getting-started/install-and-singing-in/sign-in-with-existing-backup.md), in case of log out from the EVER Wallet extension:
+EVER Walletの拡張機能からログアウトした場合に備えて、シードのバックアップファイルを作成しておくと、[素早く入れます](../../getting-started/install-and-singing-in/sign-in-with-existing-backup.md)。
 
 ![](<../../.gitbook/assets/image (19).png>)
-

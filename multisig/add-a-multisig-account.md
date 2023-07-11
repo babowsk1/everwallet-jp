@@ -1,10 +1,11 @@
-# Add a Multisig account
+# マルチシグアカウントを追加する
 
-In order for custodians to be able to confirm transactions of a particular multisig wallet, they need to add it to their EVER Wallet.&#x20;
+カストディアンが特定のマルチシグウォレットのトランザクションを確認できるようにするには、\
+EVER Walletに追加する必要があります。
 
-1. Proceed to [add a new account](../seed-phrase-keys-and-accounts/account-management/).&#x20;
-2. Enter your [multisig account address](creating-a-multisig-account.md) and click **Add account**.&#x20;
+1. [新しいアカウントの追加](../seed-phrase-keys-and-accounts/account-management/)に進みます。
+2. [マルチシグアカウントのアドレス](creating-a-multisig-account.md)を入力し、［**アカウントを追加する**］をクリックします。
 
 ![](<../.gitbook/assets/image (6).png>)
 
-You will receive requests to confirm the transaction to this address.
+このアドレスにトランザクションの確認依頼が届きます。

@@ -1,15 +1,14 @@
-# EVER Wallet App
+# EVER Walletアプリ
 
-To manage your seed phrases, go to the **Profile section** at the bottom right of the screen.
+シードフレーズを管理するには、画面右下の**プロフィール項目**に移動します。
 
-Click **Add seed** to [import a seed](../../getting-started/install-and-singing-in/sign-in-with-existing-backup.md) or [create a new one](../../getting-started/install-and-singing-in/creating-a-new-wallet.md).&#x20;
+［**シードを追加する**]をクリックして、[シードをインポートする](../../getting-started/install-and-singing-in/sign-in-with-existing-backup.md)か、[新しいシードを作成](../../getting-started/install-and-singing-in/creating-a-new-wallet.md)します。
 
 ![](<../../.gitbook/assets/image (3).png>)
 
-You can also change the seed's **password** and **display name**.\
-****If you have lost your seed phrase, you can look it up again by clicking **Export seed phrase.**\
-****To remove a phrase from those displayed in the wallet, click **Remove seed phrase**.
+また、シードの**パスワード**と**表示名**を変更することができます。\
+\*\*\*\*シードフレーズを紛失した場合、［**シードフレーズをエクスポート**］をクリックすると、再度シードフレーズを確認することができます。\
+\*\*\*\*ウォレットに表示されているフレーズを削除するには、\[**シードフレーズを削除する**]をクリックします。
 
 ![](<../../.gitbook/assets/image (7).png>)
 
-****

@@ -1,42 +1,41 @@
 ---
-description: You can view the list of transactions directly in the wallet.
+description: ウォレットでトランザクション一覧を直接確認できます。
 ---
 
-# Transactions
+# トランザクション
 
-## All transactions
+## 全てのトランザクション
 
-To see all your transactions, go to the <mark style="color:orange;">**transaction menu**</mark> on the main page of the wallet.&#x20;
+全てのトランザクションを表示するには、ウォレットのメインページにある<mark style="color:orange;">**トランザクションメニュー**</mark>に移動します。
 
 {% hint style="info" %}
-In this case, only the number of spent or received to the EVER address is displayed!
+この場合、EVERアドレスへの送受信だけが表示されます！
 {% endhint %}
 
 ![](<../.gitbook/assets/image (44).png>)
 
-## Specific tokens transactions
+## 特定トークンのトランザクション
 
-To view transactions for a specific token, **click on that token** on the main page of the wallet. \
-In this case, you will go to the menu of this token, where, in particular, the history of transactions is displayed.
+特定トークンのトランザクションを表示するには、ウォレットのメインページで**そのトークンをクリックします**。この場合、このトークンのメニュー内にあるトランザクションの履歴が表示されているところへ移動します。
 
 ![](<../.gitbook/assets/image (41).png>)
 
 {% hint style="info" %}
-If the required token is not listed on the main page, it can be added using the [Select Assets](./) menu.
+必要なトークンがメインページに表示されていない場合は、「アセットを選択する」メニューを使用して追加してください。
 {% endhint %}
 
-## Transaction information
+## トランザクション情報
 
-For more information about a transaction, **click on it** in the list of transactions. \
-\
-Here you can see the following transaction details:&#x20;
+トランザクションの詳細については、トランザクション一覧で、そのトランザクションを**クリックしてください**。
 
-* **Date and time** of the transaction&#x20;
-* Transaction **Hash ID**&#x20;
-* **Sender's address**&#x20;
-* **Amount** to send&#x20;
-* ****[**Blockchain fee**](../concepts/fees.md) spent on the transaction
+ここでは、次のようなトランザクションの詳細が表示されます：
 
-By clicking on **Open in explorer**, you will open the page of this transaction on [EVER Scan - Everscale blockchain explorer.](../concepts/ever-scan-everscale-explorer.md)
+* トランザクションの**日時**
+* トランザクションの**ハッシュID**
+* **送信者のアドレス**
+* 送信する**数量**
+* \*\*\*\*トランザクションに費やされた[ブロックチェーン手数料](../concepts/fees.md)
+
+［**エクスプローラーで開く**］をクリックすると、[EVER Scan - Everscaleブロックチェーンエクスプローラー](../concepts/ever-scan-everscale-explorer.md)に、このトランザクションのページが表示されます。&#x20;
 
 ![](<../.gitbook/assets/image (32).png>)

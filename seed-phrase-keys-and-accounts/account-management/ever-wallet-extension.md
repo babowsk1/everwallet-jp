@@ -1,42 +1,41 @@
-# EVER Wallet Extension
+# EVER Walletの拡張機能
 
-Go to your **profile menu** and click **Manage seeds & accounts**. \
-Since your accounts are tied to keys, and keys to seeds - select the desired seed, and then the key by clicking on them to go to the **account management menu**.
+**プロフィールメニュー**に移動し、［**シードとアカウントを管理**］をクリックします。\
+アカウントは鍵に、鍵はシードにリンクしているため、希望のシードと鍵をクリックして選択し、**アカウント管理メニュー**に移動します。
 
 ![](<../../.gitbook/assets/image (13).png>)
 
-## Added account management
+## 追加されたアカウント管理
 
-In the list of accounts, click on one of them to go to the **account management menu**. \
-Here you can:&#x20;
+アカウント一覧で、1つクリックすると、**アカウント管理メニュー**が表示されます。\
+こちらでは下記が行えます:
 
-* Change display name (Account name).
-* Enable or disable account display on the main page of the EVER Wallet extension.&#x20;
-* Copy the address and QR code of the account. View which keys the account is linked to.
+* 表示名(アカウント名)の変更。&#x20;
+* EVER Wallet拡張機能のメインページでのアカウント表示の有効化または無効化。
+* アカウントのアドレスとQRコードをコピーし、アカウントがどの鍵とリンクしているかを表示。
 
 ![](<../../.gitbook/assets/image (52).png>)
 
-## Add a new account
+## 新しいアカウントを追加する
 
-At the top of the list of accounts linked to the key, click **+ Add new** to link the account (or you can do it by adding an account on the main screen of EVER Wallet by switching the account card).
+鍵にリンクしているアカウント一覧の上部にある\[**+新規追加**]をクリックしてアカウントをリンクさせます（または、アカウントカードを切り替えてEVER Walletのメイン画面にアカウントを追加することでリンクさせます）。
 
 ![](<../../.gitbook/assets/image (1).png>)
 
-### Create new
+### 新しく作成する
 
-1. Select **Create new account.**&#x20;
-2. Enter a display name for the new account&#x20;
-3. Choose a wallet type. Recall that for each key, you can create one wallet of each type.&#x20;
-4. Now you can go to the card of this account (Go to account).
+1. ［**新しいアカウントを作成する**］を選択します。
+2. 新しいアカウントの表示名を入力します。
+3. ウォレットタイプを選択します。それぞれの鍵に対して、各タイプのウォレットを1つ作成できることに注意してください。
+4. これで、このアカウントのカードに移動できます。(アカウントへ移動する)
 
 ![](../../.gitbook/assets/image.png)
 
-### Add existing
+### 既存を追加する
 
-1. Select **Add an exising account**.
-2. Enter a display **name** for the account.
-3. Enter a **multisig address.**
-4. Click **Add account.**
+1. ［**既存のアカウントを追加する**］を選択します。
+2. アカウントの**表示名**を入力します。
+3. **マルチシグアドレス**を入力します。
+4. ［**アカウントを追加する**］をクリックします。
 
 ![](<../../.gitbook/assets/image (9).png>)
-

@@ -1,21 +1,20 @@
-# How to add tokens to your wallet
+# トークンをウォレットに追加する方法
 
-By default, your wallet will only display the amount of EVER you have. \
-To add other tokens to your wallet you have to click on the **Select Assets** menu.
+デフォルトでは、あなたのウォレットにはお持ちのEVERだけが表示されます。 ウォレットに他のトークンを追加するには、［**アセットを選択する**］メニューをクリックしてください。
 
-## Adding tokens from the list of tokens
+## トークン一覧からトークンを追加する
 
-1. Go to the <mark style="color:orange;">**Select Assets**</mark> menu.
-2. Select the tokens that will be displayed in your wallet by moving the sliders to the right.
-3. Click on <mark style="color:orange;">**Save.**</mark>
+1. <mark style="color:orange;">**［アセットを選択する］**</mark>メニューへ移動します。
+2. スライダーを右に動かして、ウォレットに表示されるトークンを選択します。
+3. <mark style="color:orange;">**［保存する］**</mark>をクリックします。
 
 ![](<../.gitbook/assets/image (10).png>)
 
-## Adding custom tokens
+## カスタムトークンを追加する
 
-1. Go to the **Select assets** menu.
-2. Go to the **Custom token** section.&#x20;
-3. In the input line, enter the address **Root token contract**.&#x20;
-4. Click **Proceed**.
+1. ［**アセットを選択する**］メニューへ移動します。
+2. ［**カスタムトークン**］項目へ移動します。
+3. 入力欄に、**ルートトークンコントラクト**のアドレスを入力してください。
+4. ［**続行**］をクリックします。
 
-![](<../.gitbook/assets/image (42).png>)
+![](<../.gitbook/assets/image (27).png>)

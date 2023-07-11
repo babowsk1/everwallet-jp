@@ -1,8 +1,8 @@
-# EVER Wallet App
+# EVER Walletアプリ
 
-Keys are managed through the **Profile** menu, go there by clicking in the lower right part of the screen.&#x20;
+鍵の管理は、画面右下の**プロフィール**メニューから行います。
 
-Here you can create a new key by selecting the desired seed and clicking **Derive key**. \
-Also, having selected the desired key, you can disable its display by clicking **Remove key**.
+ここでは、鍵を取得したいシードを選択し［**鍵を取得する**］をクリックすると、新しい鍵を作成することができます。\
+また、鍵を選択した後［**鍵を削除する**］をクリックすると、その鍵を非表示にすることができます。
 
 ![](<../../.gitbook/assets/image (22).png>)

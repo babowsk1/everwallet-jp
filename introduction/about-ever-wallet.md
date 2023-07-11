@@ -1,6 +1,10 @@
-# About EVER Wallet
+---
+description: EVER Walletついて
+---
 
-EVER Wallet is the native wallet of the [Everscale blockchain](everscale.md). \
-The wallet lets users [manage their seed phrases](../seed-phrase-keys-and-accounts/seed-phrase-management/), [accounts ](../seed-phrase-keys-and-accounts/account-management/)and [keys](../seed-phrase-keys-and-accounts/keys-management/) while protecting data with encrypted local storage. \
-Use the wallet to connect to the network's bridge, DEX and other services. \
-Additionally, there are a number of possible future integrations to different DEXs and NFT and gaming projects in the works!
+# EVER Walletについて
+
+EVER Walletは、[Everscaleブロックチェーン](everscale.md)から生まれたウォレットです。\
+ウォレットにより、暗号化されたローカルストレージでデータを保護しながら、[ユーザーは自分のシードフレーズ](../seed-phrase-keys-and-accounts/seed-phrase-management/)、[アカウント](../seed-phrase-keys-and-accounts/account-management/)、[鍵](../seed-phrase-keys-and-accounts/keys-management/)を管理することができます。\
+ウォレットを使用して、ネットワークのブリッジ、DEXおよびその他のサービスに接続します。\
+さらに、将来的には様々なDEXやNFT、ゲームプロジェクトと融合する可能性があります！

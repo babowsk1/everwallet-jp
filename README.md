@@ -1,13 +1,13 @@
 ---
-description: エバーウォレットようこそ
+description: EVER Walletへ  ようこそ
 ---
 
-# エバーウォレットへ  ようこそ
+# EVER Walletへ  ようこそ
 
-[ブロッソチーム](https://broxus.com/)が、ギットブックエバーウォレットのページに皆様を歓迎いたします！\
-このスペースのページには、[エバーウォレット](https://l1.broxus.com/everscale/wallet)を使うために必要なことが全て記載されています。
+[Broxusチーム](https://broxus.com/)は、GitHub EVER Walletのページに皆様を歓迎いたします!\
+こちらには、[EVER Wallet](https://l1.broxus.com/everscale/wallet)を使うために必要なものが全て記載されています。
 
-[エバーウォレット](https://l1.broxus.com/everscale/wallet)に慣れていない方や、これから始めようと思っている方は、スタートページへ行きましょう!
+[EVER Wallet](https://l1.broxus.com/everscale/wallet)に慣れていない方や、これから始めようと思っている方は、スタートページをご覧ください！
 
 {% content-ref url="getting-started/" %}
 [getting-started](getting-started/)

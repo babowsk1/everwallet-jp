@@ -1,15 +1,16 @@
-# Creating a new wallet
+# 新しいウォレットを作成する
 
-1. Start by selecting the option **Create a new wallet.**
-2. Select the [**type of wallet**](types-of-wallet.md) you wish to create.
-3. Copy down your seed phrase and store it in a safe place. It is best to have a few physical copies of the seed phrase stored in different places.&#x20;
-4. Pass through the seed phrase verification process.&#x20;
-5. Create a password. You’re going to need your password in order to confirm all the transactions you make with the wallet.
+1. はじめに、［**新しいウォレットを作成する**］を選択します。
+2. 作成したい[ウォレットのタイプ](types-of-wallet.md)を選択します。
+3. シードフレーズをコピーし、安全な場所で保管してください。シードフレーズの物理的なコピーを\
+   いくつか別の場所に保存しておくことを推奨しております。
+4. シードフレーズの確認プロセスを行います。
+5. パスワードを作成してください。ウォレットで行う取引確認の際に、パスワードが必要になります。
 
 ![](<../../.gitbook/assets/image (33).png>)
 
-Now you’ve got your wallet all set up and you can start really working with your EVER Wallet!\
-In order to start fully using your EVER Wallet, you need to get [**EVER** ](../how-to-get-ever.md)and [**deploy** ](deploy/)your wallet:
+これで、ウォレットの設定が完了したため、EVER Walletを実際に使い始められます！\
+EVER Walletを使い始めるには、[EVER](../how-to-get-ever.md)を取得し、ウォレットを[デプロイ](deploy/)してください：
 
 {% content-ref url="deploy/" %}
 [deploy](deploy/)
